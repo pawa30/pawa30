@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Arya Pawaskar!
 
-<!--
-**pawa30/pawa30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a final-year **B.E. Computer Engineering** student at **Mumbai University of Engineering and Technology**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- HTML & CSS
+- JavaScript
+- Python
+- Java
+
+---
+
+## 🎯 Goals
+I'm focused on building **innovative, interactive, and real-world projects** that contribute to the future of technology and society.
+
+---
+
+## 💻 What I’m Working On
+- Strengthening my web development skills (HTML, CSS, JS)
+- Building Python-based utility tools and web apps
+- Adding projects level-by-level to this GitHub profile as I learn
+
+---
+
+## 📫 How to Reach Me
+- 📧 [email] - (aryapawaskar60@gmail.com)
+- 💼 [LinkedIn] - (https://www.linkedin.com/in/arya-pawaskar-1b9038313/) 
+
+---
+
+## 🚀 Fun Fact
+> I'm passionate about tech that makes life easier and more accessible — whether it's a web tool, script, or full-blown app!
+
+Thanks for visiting my profile! Feel free to check out my projects below 👇
+
