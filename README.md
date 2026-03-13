@@ -9,6 +9,8 @@
 - JavaScript
 - Python
 - Java
+- SQL
+- PowerBI
 
 ---
 
@@ -25,7 +27,7 @@ I'm focused on building **innovative, interactive, and real-world projects** tha
 ---
 
 ## 📫 How to Reach Me
-- 📧 [email] - (aryapawaskar60@gmail.com)
+- 📧 [email] - (aryapawaskar30@gmail.com)
 - 💼 [LinkedIn] - (https://www.linkedin.com/in/arya-pawaskar-1b9038313/) 
 
 ---
